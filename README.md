@@ -29,4 +29,13 @@ assessment scores are impacted by many underlying differences between schools an
 The results suggest that broader socioeconomic and educational conditions play a more decisive 
 role in student performance.
 
+## 📊 Key Charts & Visuals
+
+### Chart 1: [Title]
+![Chart 1](./chart1.png)
+
+### Chart 2: [Results]
+![Chart 2](./chart2.png)
+
+
 ---
