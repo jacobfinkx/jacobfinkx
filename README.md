@@ -32,10 +32,20 @@ role in student performance.
 ## 📊 Key Charts & Visuals
 
 ### Chart 1: [Pre Treatment Comparability]
-![Chart 1](./Pre_Treatment_Comparability.png)
+![Chart 1](./Pre_Treatment_Comparability)
 
 ### Chart 2: [Results]
-![Chart 2](./Graphical_Results.png)
+![Chart 2](./Graphical_Results)
 
+## 🧮 Stata Code Used in This Analysis
+
+This project includes the full Stata `.do` file used to clean the data, run regressions, and generate the statistical outputs for the research paper.
+
+👉 [**View the Full Stata Code (.do)**](./Research_Project_Do.do)
+
+### Code Preview
+```stata
+* Example snippet
+reg PV1MATH all_abgroup some_abgroup i.countryxgrade SCHSIZE govfunding stufeefunding benefactfunding  private littleshortage moreshortage alotshortage DISCLIMA SCMATEDU firstgen secondgen abs_verylittle abs_someextent abs_alot studyplace outofschoollessons parent_hs parent_somecollege parent_collegedegree parent_graduatedegree ESCS foreignlanghome female, cl(SCHOOLID)
 
 ---
