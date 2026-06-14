@@ -33,9 +33,13 @@ role in student performance.
 
 ### Chart 1: [Pre Treatment Comparability]
 ![Chart 1](./Pre_Treatment_Comparability)
-1 being schools with ability grouping in all subjects, 2 being schools with ability grouping in some subjects, being compared to schools with no ability grouping.
+
+This chart shows similar means of three different variables between schools with and without ability grouping, showcasing comparability before regression takes place. 
+
 ### Chart 2: [Results]
 ![Chart 2](./Graphical_Results)
+
+1 being schools with ability grouping in all subjects, 2 being schools with ability grouping in some subjects, being compared to schools with no ability grouping.
 
 ## 🧮 Stata Code Used in This Analysis
 
