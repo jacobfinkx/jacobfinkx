@@ -33,7 +33,7 @@ role in student performance.
 
 ### Chart 1: [Pre Treatment Comparability]
 ![Chart 1](./Pre_Treatment_Comparability)
-
+1 being schools with ability grouping in all subjects, 2 being schools with ability grouping in some subjects, being compared to schools with no ability grouping.
 ### Chart 2: [Results]
 ![Chart 2](./Graphical_Results)
 
