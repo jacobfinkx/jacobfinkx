@@ -14,7 +14,7 @@ I enjoy turning messy data into clear insights and building clean, reproducible 
 **Title:** The Impact of Ability Grouping on Academic Performance   
 **Topic:** An analysis of how ability grouping affects school-wide performance.
 
-👉 [**Read the Full Research Paper (PDF)**](./Econometric Research Paper.pdf)
+👉 [**Read the Full Research Paper (PDF)**](./Econometric%20Research%20Paper.pdf)
 
 ### Abstract
 This paper investigates the impact of ability grouping on student performance using both 
