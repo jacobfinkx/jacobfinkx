@@ -6,3 +6,27 @@ I enjoy turning messy data into clear insights and building clean, reproducible 
 🎓 BBA in Economics  
 📊 Interests: econometrics, data visualization, and analytics projects  
 🚀 Currently building my data analytics portfolio here on GitHub
+
+---
+
+## 📄 Econometric Research Paper
+
+**Title:** The Impact of Ability Grouping on Academic Performance   
+**Topic:** An analysis of how ability grouping affects school-wide performance.
+
+👉 [**Read the Full Research Paper (PDF)**](./.pdf)
+
+### Abstract
+This paper investigates the impact of ability grouping on student performance using both 
+student level and school level data from the PISA (Program for International Student 
+Assessment) in 2009. A series of regression models were used to show a naive comparison, a 
+comparison involving school level controls, and a comparison using school level controls, 
+student level controls, and a country-by-grade fixed effect. My findings suggest that ability 
+grouping does lead to a slight increase in PV1 scores, therefore an increase in academic 
+performance, but not by as much as expected. Controlling for school-level, student-level, 
+country-level, and grade-level effects shows a minor effect of ability grouping. Instead, PV1 
+assessment scores are impacted by many underlying differences between schools and students. 
+The results suggest that broader socioeconomic and educational conditions play a more decisive 
+role in student performance.
+
+---
