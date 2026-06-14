@@ -31,11 +31,11 @@ role in student performance.
 
 ## 📊 Key Charts & Visuals
 
-### Chart 1: [Title]
-![Chart 1](./chart1.png)
+### Chart 1: [Pre Treatment Comparability]
+![Chart 1](./Pre_Treatment_Comparability.png)
 
 ### Chart 2: [Results]
-![Chart 2](./chart2.png)
+![Chart 2](./Graphical_Results.png)
 
 
 ---
