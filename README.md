@@ -67,3 +67,21 @@ The goal is to segment customers based on purchasing behavior and identify high�
 - Pivot tables and Excel formulas
 - Customer segmentation
 - Business insight generation
+
+## 📊 Key Visuals
+
+### **1. RFM Table**
+![RFM Table](screenshots/RMF_Table.png)
+
+### **2. Quintile Summary Tables**
+![Quintile Tables](screenshots/Quintile_Summary_Tables.png)
+
+### **3. Segment Summary Pivot Table**
+![Segment Pivot](screenshots/Pivot_Table.png)
+
+## 📈 Key Insights
+
+- **Contact** customers show the strongest purchasing behavior  
+- **Upsell** customers have growth potential  
+- **Ignore** customers show minimal engagement  
+- Segmentation helps prioritize marketing and retention strategies
