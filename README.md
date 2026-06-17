@@ -71,13 +71,13 @@ The goal is to segment customers based on purchasing behavior and identify high�
 ## 📊 Key Visuals
 
 ### **1. RFM Table**
-![RFM Table](screenshots/RMF_Table.png)
+![RFM Table](./RMF_Table.png)
 
 ### **2. Quintile Summary Tables**
-![Quintile Tables](screenshots/Quintile_Summary_Tables.png)
+![Quintile Tables](./Quintile_Summary_Tables.png)
 
 ### **3. Segment Summary Pivot Table**
-![Segment Pivot](screenshots/Pivot_Table.png)
+![Segment Pivot](./Pivot_Table.png)
 
 ## 📈 Key Insights
 
