@@ -129,42 +129,42 @@ Below are the six pivot tables included in this project, each answering a specif
 ## 1️⃣ Most Purchases by Quantity (Top Customers)
 
 **Pivot Table:**  
-`./Pivot_Table_1.png`
+![Most Purchases by Quantity](./Pivot_Table_1.png)
 
 ---
 
 ## 2️⃣ Most Customer Revenue (Top Revenue Customers)
 
 **Pivot Table:**  
-`./Pivot_Table_2.png`
+![Most Customer Revenue](./Pivot_Table_2.png)
 
 ---
 
 ## 3️⃣ Product Quantity Sold (Top‑Selling Products)
 
 **Pivot Table:**  
-`./Pivot_Table_3.png`
+![Product Quantity Sold](./Pivot_Table_3.png)
 
 ---
 
 ## 4️⃣ Product Revenue (Highest‑Earning Products)
 
 **Pivot Table:**  
-`./Pivot_Table_4.png`
+![Product Revenue](./Pivot_Table_4.png)
 
 ---
 
 ## 5️⃣ Sales Quantity Consistency (Across Dates)
 
 **Pivot Table:**  
-`./Pivot_Table_5.png`
+![Sales Quantity Consistency](./Pivot_Table_5.png)
 
 ---
 
 ## 6️⃣ Product Revenue Consistency (Across Dates)
 
 **Pivot Table:**  
-`./Pivot_Table_6.png`
+![Product Revenue Consistency](./Pivot_Table_6.png)
 
 ---
 
