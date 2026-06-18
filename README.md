@@ -9,7 +9,7 @@ I enjoy turning messy data into clear insights
 
 ---
 
-## 📄 Econometric Research Paper
+## 📄 Project 1: Econometric Research Paper
 
 **Title:** The Impact of Ability Grouping on Academic Performance   
 **Topic:** An analysis of how ability grouping affects school-wide performance.
@@ -54,7 +54,7 @@ reg PV1MATH all_abgroup some_abgroup i.countryxgrade SCHSIZE govfunding stufeefu
 ```
 ---
 
-## 📊 RFM Customer Segmentation Analysis
+## 📊 Project 2: RFM Customer Segmentation Analysis
 
 This project uses Excel to perform RFM (Recency, Frequency, Monetary) analysis on customer transaction data. 
 The goal is to segment customers based on purchasing behavior and identify high‑value groups.
