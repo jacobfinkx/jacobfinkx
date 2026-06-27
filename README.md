@@ -1,7 +1,6 @@
 ## Hi there, I'm Jacob 👋
 
 I'm an aspiring data analyst with experience in Python, SQL, Power BI, and econometric modeling.
-I enjoy turning messy data into clear insights
 
 🎓 BBA in Economics  
 📊 Interests: econometrics, data visualization, and analytics projects  
