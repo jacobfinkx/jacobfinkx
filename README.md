@@ -52,41 +52,6 @@ This project includes the full Stata `.do` file used to clean the data, run regr
 * Example snippet
 reg PV1MATH all_abgroup some_abgroup i.countryxgrade SCHSIZE govfunding stufeefunding benefactfunding  private littleshortage moreshortage alotshortage DISCLIMA SCMATEDU firstgen secondgen abs_verylittle abs_someextent abs_alot studyplace outofschoollessons parent_hs parent_somecollege parent_collegedegree parent_graduatedegree ESCS foreignlanghome female, cl(SCHOOLID)
 ```
----
-
-## 📊 Project 2: RFM Customer Segmentation Analysis
-
-This project uses Excel to perform RFM (Recency, Frequency, Monetary) analysis on customer transaction data. 
-The goal is to segment customers based on purchasing behavior and identify high‑value groups.
-
-👉 [**Download the RFM Analysis (Excel)**](./RMF_Analysis.xlsx)
-
-### Skills Demonstrated
-- Data cleaning and preparation
-- RFM scoring logic
-- Pivot tables and Excel formulas
-- Customer segmentation
-- Business insight generation
-
-## 📊 Key Visuals
-
-### **1. RFM Table**
-![RFM Table](./RMF_Table.png)
-
-### **2. Quintile Summary Tables**
-![Quintile Tables](./Quintile_Summary_Tables.png)
-
-### **3. Segment Summary Pivot Table**
-![Segment Pivot](./Pivot_Table.png)
-
-## 📈 Key Insights
-
-- **Contact** customers show the strongest purchasing behavior  
-- **Upsell** customers have growth potential  
-- **Ignore** customers show minimal engagement  
-- Segmentation helps prioritize marketing and retention strategies
-
----
 
 # 📊 Project 3: Business Analytics Case Study — Sales, Revenue & Product Insights (Excel)
 
