@@ -1,6 +1,6 @@
 ## Hi there, I'm Jacob 👋
 
-I'm an aspiring data analyst with experience in R, Python, SQL, and econometric modeling.
+I'm an aspiring data analyst with experience in Python, SQL, Power BI, and econometric modeling.
 I enjoy turning messy data into clear insights
 
 🎓 BBA in Economics  
