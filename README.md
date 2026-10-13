@@ -4,7 +4,7 @@ I'm an aspiring business professional with experience in Python, SQL, Power BI, 
 
 🎓 BBA in Economics  
 📊 Interests: econometrics, data visualization, and analytics projects  
-🚀 Currently building my data analytics portfolio here on GitHub
+🚀 Currently building my portfolio here on GitHub
 
 ---
 
